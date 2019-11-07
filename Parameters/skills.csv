@@ -1,3 +1,1591 @@
-Skills
-MS Word
-MS Excel
+﻿tagId,tagName,parentTagId,parentTagName
+1,Industry,0,NULL
+2,Discipline,0,NULL
+3,Language,0,NULL
+4,Qualifiations,0,NULL
+5,Permissions,0,NULL
+6,skills,0,NULL
+7,Computer Skills,0,NULL
+8,workSegment,0,NULL
+9,Reserved,0,NULL
+10,Reserved,0,NULL
+11,Project management,NULL,NULL
+12,business establishment,NULL,NULL
+13,liaison,NULL,NULL
+14,Drafting,NULL,NULL
+15,Drafting,6,skills
+16,Unit management,6,skills
+17,Business Development,6,skills
+18,Strategic Planning,6,skills
+19,Client advocacy,6,skills
+20,PMBOK,6,skills
+21,Project Office setup,6,skills
+22,Engineering,1,Industry
+23,Civil Engineering,22,Engineering
+24,Building Engineering,22,Engineering
+25,Consulting,1,Industry
+26,Management,1,Industry
+27,Design,1,Industry
+28,Teaching,1,Industry
+29,Industry,NULL,NULL
+30,Busses,NULL,NULL
+31,Japanese,3,Language
+32,German,3,Language
+33,Software Development,NULL,NULL
+34,CPR,4,Qualifiations
+35,Testing,2,Discipline
+36,test,2,Discipline
+37,,2,Discipline
+38,Mechanical Equipment Design,2,Discipline
+39,Master of Engineering,4,Qualifiations
+40,oil &gas,17,Business Development
+41,Project Engineer,40,oil &gas
+42, biogas,17,Business Development
+43, power,17,Business Development
+44, process,17,Business Development
+45,petrochemical,17,Business Development
+46, chemical,17,Business Development
+47,Fabricator,1,Industry
+48,#NAME?,1,Industry
+49, Seawater Desalination Project ,1,Industry
+50,Manufacturing,NULL,NULL
+51,Fabrication,1,Industry
+52,quality control,NULL,NULL
+53,"Project Management, Supervision, Quality Control and Inspection ",2,Discipline
+54,"•	Executive Master in Business Project Management",4,Qualifiations
+55,"•	Diploma in Banking Studies",4,Qualifiations
+56,Civil and Construction ,1,Industry
+57,Oil and Gas Division ,1,Industry
+58,"C/C++, Python, Java HTML, CSS ",7,Computer Skills
+59,Bachelor of Science degree in Computer Science,4,Qualifiations
+60,Nandos,1,Industry
+61,University,1,Industry
+62,Bulk Materials Handling Equipment (Iron Ore),NULL,NULL
+63,leadership,NULL,NULL
+64,‘Mechanical Project Engineer,2,Discipline
+65,Bachelor of Engineering ,4,Qualifiations
+66,Diploma of Project Management ,4,Qualifiations
+67,Mining,1,Industry
+68,commissioning,6,skills
+69,Electrical,2,Discipline
+70,Bachelor of Science in Electrical and Electronic Engineering ,4,Qualifiations
+71,Process,2,Discipline
+72,Mechanical,2,Discipline
+73,Power,72,Mechanical
+74,Process ,73,Power
+75,Mining metal,72,Mechanical
+76, Water treatment,72,Mechanical
+77,processing plant,67,Mining
+78,dewatering systems and mobile equipment,67,Mining
+79,Oil& gas,72,Mechanical
+80,Control & Instrumentation,2,Discipline
+81,greenfield & brownfield,80,Control & Instrumentation
+82,design and execution of greenfield and brownfield projects in the fields of PCN cybersecurity,81,greenfield & brownfield
+83,instrumentation,81,greenfield & brownfield
+84,control and communication systems,81,greenfield & brownfield
+85,functional safety and project management,81,greenfield & brownfield
+86,oil & gas,80,Control & Instrumentation
+87, mining,80,Control & Instrumentation
+88,rail,80,Control & Instrumentation
+89,materials,80,Control & Instrumentation
+90,prefeasibility,86,oil & gas
+91,feasibility,86,oil & gas
+92,option study,86,oil & gas
+93,concept design,86,oil & gas
+94,front end engineering,86,oil & gas
+95,detail engineering,86,oil & gas
+96,pre-commissioning,86,oil & gas
+97,fertilizer,71,Process
+98,chemical,71,Process
+99,  mineral,71,Process
+100,Admin & Accounts,2,Discipline
+101,Doc Control,2,Discipline
+102,worked in curtin guild,101,Doc Control
+103,communication,102,worked in curtin guild
+104,computer,102,worked in curtin guild
+105,Graduate,71,Process
+106,TBD,11,Project management
+107,Supervision,11,Project management
+108,Quality Control and Inspection,11,Project management
+109,Safety,2,Discipline
+110,Design and Drafting,2,Discipline
+111,Chemical and Process Engineer,11,Project management
+112,Not suitable,111,Chemical and Process Engineer
+113,doesnot have enough relevant experience,111,Chemical and Process Engineer
+114,BTech Chemical,41,Project Engineer
+115,Melbourne based,41,Project Engineer
+116,expensive,41,Project Engineer
+117,Chemical Engineering,86,oil & gas
+118,Junior PE,86,oil & gas
+119,Oil,72,Mechanical
+120, power generation,72,Mechanical
+121,Oil and Gas (offshore/onshore),98,chemical
+122,Conceptual/Feasibility studies,121,Oil and Gas (offshore/onshore)
+123,FEED,121,Oil and Gas (offshore/onshore)
+124,EPC,121,Oil and Gas (offshore/onshore)
+125,Installation,121,Oil and Gas (offshore/onshore)
+126,"Commissioning & start-up/Handover to operation.
+Well Head/ satellite offshore platform and CPP",121,Oil and Gas (offshore/onshore)
+127,FSO/FPU/LQ,121,Oil and Gas (offshore/onshore)
+128,Gas Plant,121,Oil and Gas (offshore/onshore)
+129,SRU,121,Oil and Gas (offshore/onshore)
+130,Ammonia,121,Oil and Gas (offshore/onshore)
+131,Methanol,121,Oil and Gas (offshore/onshore)
+132,"Utilities etc.
+MS Office/AutoCAD
+Hysys/Pipesim/flarenet/pipenet/Instrucal
+TGnet/TLnet/Phast/Flaresim/Olga
+Excelsheet – pro",121,Oil and Gas (offshore/onshore)
+133,Refinery,98,chemical
+134,"Utilities etc.
+MS Office/AutoCAD
+Hysys/Pipesim/flarenet/pipenet/Instrucal
+TGnet/TLnet/Phast/Flaresim/Olga
+Excelsheet – pro",133,Refinery
+135,Fertilizer/chemicals,98,chemical
+136,"Utilities etc.
+MS Office/AutoCAD
+Hysys/Pipesim/flarenet/pipenet/Instrucal
+TGnet/TLnet/Phast/Flaresim/Olga
+Excelsheet – pro",135,Fertilizer/chemicals
+137,Disassembling,69,Electrical
+138,diagnose,69,Electrical
+139,repair and test electrical devices and IT equipment in a workshop and customer side. Service and commissioning experience inc,69,Electrical
+140,IT,69,Electrical
+141,instrumentation and safety,69,Electrical
+142,Electricals,2,Discipline
+143,Electrical1,1,Industry
+144,Electrical2,1,Industry
+145,Electrical3,1,Industry
+146,Electrical4,1,Industry
+147,Electrical 5,1,Industry
+148,Electrical6,1,Industry
+149,Mechanical Engineer ,2,Discipline
+150,MASTER OF ENGINEERING - MECHANICAL ,4,Qualifiations
+151,BACHELOR OF ENGINEERING - MECHANICAL ,4,Qualifiations
+152, MECHANICAL & PIPING ,1,Industry
+153, ENGINEERING ,1,Industry
+154, Process ,1,Industry
+155, Electro Mechanic Works ,1,Industry
+156, Refinery,1,Industry
+157,Design / MDR Validation,86,oil & gas
+158,Pipeline Design,86,oil & gas
+159,Gas Compliance Audit,86,oil & gas
+160,Project Management & Risk Ana.,86,oil & gas
+161,Bachelors Degree in Mechanical Engineering ,4,Qualifiations
+162, Civil Construction Designer ,2,Discipline
+163,Advanced Diploma in Civil Construction Design ,4,Qualifiations
+164,Diploma in Civil Construction Design ,4,Qualifiations
+165,Certificate IV in Business ,4,Qualifiations
+166,Civil Construction and Design,NULL,NULL
+167,Bachelor’s Degree in Civil Engineering,4,Qualifiations
+168,Diploma of Civil Construction Design,4,Qualifiations
+169,Perth Airport ,1,Industry
+170,Piping,2,Discipline
+171,Mechanical and Piping Project Engineer ,2,Discipline
+172,Graduate Diploma ,4,Qualifiations
+173,Mechanical QA/QC,1,Industry
+174,Marketing,2,Discipline
+175,"B-Tech ,Marketing",2,Discipline
+176,MBA,4,Qualifiations
+177,B.Tech,4,Qualifiations
+178,Project Engineering,1,Industry
+179, Bachelor of Engineering (Chemical) with honours ,4,Qualifiations
+180,Curtin University - Bachelor of Science (Chemistry) (2013) ,4,Qualifiations
+181,Construction,1,Industry
+182,Commissioning Engineer,NULL,NULL
+183,Mechanical & Project Engineer,2,Discipline
+184,MECHANICAL ENGINEERING UNIVERSITY OF SOUTHERN QLD ,4,Qualifiations
+185,Bachelorin Engineering,4,Qualifiations
+186,Lead Construction ,1,Industry
+187,Oil &sGas,1,Industry
+188,energy,1,Industry
+189,Bachelor of Engineering - UWA Civil Offshore ,4,Qualifiations
+190,Gas,1,Industry
+191,Automobile,1,Industry
+192,"Master of Science, Design of Rotating Machines, Cranfield University, Milton Keynes, UK ",4,Qualifiations
+193,"Bachelor of Technology, Mechanical Engineering,",4,Qualifiations
+194, Compressor Seals and systems,1,Industry
+195,Post Graduate Certificate in Mechanical Engineering ,4,Qualifiations
+196,Bachelor of Technology in Mechanical Engineering ,4,Qualifiations
+197,Electro Mechanic ,1,Industry
+198,Maintenance,1,Industry
+199,Auto CAD,7,Computer Skills
+200,Chartered Professional Engineer ,4,Qualifiations
+201,Bachelor of Engineering (Mechatronic- Hons.). ,4,Qualifiations
+202,Graduate Certificate (Business),4,Qualifiations
+203,Oil and Gas Technologies ,1,Industry
+204,Oil and gas,1,Industry
+205,Civil Construction,2,Discipline
+206,Bachelor of Civil Engineering,4,Qualifiations
+207,Construction Engineer,2,Discipline
+208, Petroleum Engineering ,2,Discipline
+209, BACHELOR OF MECHANICAL ENGINEERING ,4,Qualifiations
+210,GRADUATE DIPLOMA OF BUSINESS ADMINISTRATION ,4,Qualifiations
+211,Automation,1,Industry
+212,Project Coordinator,NULL,NULL
+213,Parramatta Light Rail ,NULL,NULL
+214,Masters of Business Administration,4,Qualifiations
+215,Certificate IV Building & Construction,4,Qualifiations
+216, Rail ,1,Industry
+217, Mechanical and Electrical ,1,Industry
+218,Master of Professional Engineering,4,Qualifiations
+219,Bachelor of mechanical engineering ,4,Qualifiations
+220,Hospitality,1,Industry
+221,CSWIP 3.1 Welding Inspector ,4,Qualifiations
+222,PFP & Insulation Inspector Level 2 ,4,Qualifiations
+223,Lead Auditor Quality Management Systems ,4,Qualifiations
+224,"National Diploma, Mechanical Engineering ",4,Qualifiations
+225,SAQCC Competent Persons ,4,Qualifiations
+226,IRCA Training for Construction Supervisors ,4,Qualifiations
+227,ISO9001:2008 Quality Management System ,4,Qualifiations
+228,LNG,1,Industry
+229,Arts,2,Discipline
+230,"	Bachelor of Arts ",4,Qualifiations
+231,Retail,1,Industry
+232,HAZOP,2,Discipline
+233,Chemical & Process Engineer,2,Discipline
+234,Bachelor of Science (BSc) ,4,Qualifiations
+235,Chemical and Process,1,Industry
+236,Administration ,1,Industry
+237,Estimation,6,skills
+238,Procurement support,6,skills
+239,Monitoring,6,skills
+240,Bachelor of Science in Mechanical Engineering,4,Qualifiations
+241,Professional Engineer MIEAus,4,Qualifiations
+242,Quality Manager,4,Qualifiations
+243,Process Engineer,NULL,NULL
+244,Welding,2,Discipline
+245,Certificate III in Engineering Fabrication Trade ,4,Qualifiations
+246,Diploma in Quality Management ,4,Qualifiations
+247,CSWIP3.1-Welding Inspector,4,Qualifiations
+248,Projects,1,Industry
+249,BEng Civil Engineering ,4,Qualifiations
+250,Diploma in Industrial Studies ,4,Qualifiations
+251,Instructor,6,skills
+252,Petroleum & Mechanical,2,Discipline
+253,Masters of Engineering in Mechanical Engineering ,4,Qualifiations
+254,LPG,1,Industry
+255,Operation,NULL,NULL
+256,Piping Engineering,NULL,NULL
+257,"English, Arabic",3,Language
+258,Project Coordination,6,skills
+259,Mechanical Construction,NULL,NULL
+260,Pipeline Engineering,1,Industry
+261,Management of Change,6,skills
+262,Process Operation,NULL,NULL
+263,Analysis,NULL,NULL
+264,Team Lead Player,NULL,NULL
+265,Project Establishment,NULL,NULL
+266,Quality & Technical ,NULL,NULL
+267,B.Eng in Chemical Engineering ,4,Qualifiations
+268,Process Engineering ,1,Industry
+269,ISO 9001:2008,4,Qualifiations
+270,QMS Auditing ISO5500:2006,4,Qualifiations
+271,Cert Piping & Stress analysis,4,Qualifiations
+272,Procurement & Construction,1,Industry
+273,Consultancy,1,Industry
+274,"B.Sc. in Fluid Mechanical Engineering, Urmia University",4,Qualifiations
+275,"M.Sc. in Mechanical Engineering, SUT University",4,Qualifiations
+276,Horizon Power Level Two HV Substation Access Authorized,4,Qualifiations
+277,Type B Gas Appliances Supervised Gas Fitter Certification,4,Qualifiations
+278,"Confined Space, Gas Testing, Work Safe at Height & Off-road driving",4,Qualifiations
+279,Certified Water Treatment O&M from Veolia Water,4,Qualifiations
+280,Microsoft MS Project Professional training,4,Qualifiations
+281,ASME Member,4,Qualifiations
+282,"PMP Certification from PMI, Proficient Grade",4,Qualifiations
+283,Chartered Professional Engineer CPEng with Engineers Australia,4,Qualifiations
+284,Certified API 850 Risk Based Inspector,4,Qualifiations
+285,Applications of ASME B31.3 in Piping Design training,4,Qualifiations
+286,Pump Selection Fundamentals and Principles training,4,Qualifiations
+287,"BECHTEL OIL, GAS & CHEMICAL",1,Industry
+288,UGL,1,Industry
+289,HORIZON POWER,1,Industry
+290,ROSHD SANAT CO.,1,Industry
+291,TEHRAN OIL REFINING COMPANY,1,Industry
+292,Electrical Engineer,2,Discipline
+293,"Mater of Electrical Engineering from Edith Cowan University, WA, Australia.",4,Qualifiations
+294,"Bachelors in Electronics Engineering from The University of Faisalabad, Punjab, Pakistan.",4,Qualifiations
+295,"High School from Govt. Jame-ul-Aloom High School, Multan, Punjab, Pakistan.",4,Qualifiations
+296,"Crescent Sugar Mills & Distillery Ltd, Punjab, Pakistan.",1,Industry
+297,"Kot Addu Power Company Limited (KAPCO),",1,Industry
+298,"National Transmission & Dispatch Company (NTDC),",1,Industry
+299,DRAFT PERSON,2,Discipline
+300,DIPLOMA IN BUILDING DESIGN CENTRAL INSTITUTE OF TECHNOLOGY ,4,Qualifiations
+301,FOUNDATION CERTIFICATE IN BUSINESS MANAGEMENT UNIVERSITY OF WESTERN SYDNEY NAIROBI,4,Qualifiations
+302,IGCSE O LEVEL EDUCATION SHREE SWAMINARAYAN ACADEMY,4,Qualifiations
+303,IGA DUNCRAIG FRESH,1,Industry
+304,FURNITURE BAZAR,1,Industry
+305,Mechanical Fitter ,2,Discipline
+306,Fitter and Turner Trade Certificate ,4,Qualifiations
+307,BOSIET Ticket,4,Qualifiations
+308,White Card,4,Qualifiations
+309,Firefighting Course,4,Qualifiations
+310,Confined Space Entry Course,4,Qualifiations
+311,Working at Heights Course (including GAP Training),4,Qualifiations
+312,EWP Ticket,4,Qualifiations
+313,"BHP, Rio Tinto Induction, and Roy Hill Induction",4,Qualifiations
+314,RH1 Level 1 - Rail Safety Awareness Training,4,Qualifiations
+315,WA Drivers License,4,Qualifiations
+316,Various shutdowns WA,1,Industry
+317,"Civmec	WA",1,Industry
+318,Various shutdowns,1,Industry
+319,Metroll Manufacturing ,1,Industry
+320,PROJECT OFFICER,2,Discipline
+321,"Diploma Trainee EngineerAdor Welding Ltd (Germany), Peenya Industrial Estate Bangalore, India ",4,Qualifiations
+322,Chevron- (GORGON Pipe Spooling Project,1,Industry
+323,"AGC- AusGroup, Kwinana, Western Australia",1,Industry
+324,BP Refinery Shut down Project,1,Industry
+325,Boddington Project,1,Industry
+326,"Certificate IV in Project Management 	Project Management Body of Knowledge (PMBOK).",4,Qualifiations
+327,"Uni-Graphics NX-2 & AutoCAD Certificate SDS Solutions Pty Ltd, Bangalore, India",4,Qualifiations
+328,"Diploma in Mechanical Engineering IR Polytechnic, Department of Technical Education, Bangalore, India",4,Qualifiations
+329,Mechanical and Hydraulic building draftsman ,2,Discipline
+330,Diploma of Mechanical Engineering (CAD),4,Qualifiations
+331,Certificate IV Business (Frontline Management),4,Qualifiations
+332,Certificate III & IV in Leadership ,4,Qualifiations
+333,Advanced Steel,4,Qualifiations
+334,Revit,4,Qualifiations
+335,AutoCAD,7,Computer Skills
+336,Autoplant P&ID,7,Computer Skills
+337,Autoplant Mechanical 3D,7,Computer Skills
+338,Autoplant piping 3D,7,Computer Skills
+339,ProSteel,4,Qualifiations
+340,Introduction to Minerals Processing ,4,Qualifiations
+341,Leisk Hydraulics,1,Industry
+342,TBC Hydraulics,1,Industry
+343,Ausenco Minerals PTY. LTD.,1,Industry
+344,"Bachelor of Science - Mechanical Engineering, University Cape Town",4,Qualifiations
+345,"Diploma in Management Development, Nelson Mandela University",4,Qualifiations
+346,Government Certificate of Competence (OHS for Factories) South Africa,4,Qualifiations
+347,Certificate in Pipeline Engineering,4,Qualifiations
+348,Pfizer,1,Industry
+349,Master of Technology in Chemical Engineering,4,Qualifiations
+350,Bachelor of Technology in Pharmaceutical Engineering ,4,Qualifiations
+351,"•	Higher Secondary Certificate ",4,Qualifiations
+352,IWL INDIA LIMITED,1,Industry
+353,Kudos Chemie Limited   ,1,Industry
+354,Axon Drugs Private Limited                            ,1,Industry
+355,"B.I.T. Sindri (Ranchi Univ.) / B.Sc. 1st position/distinction Chemical Engineering, ",4,Qualifiations
+356,Petrochina International,1,Industry
+357,Worley Parsons,1,Industry
+358,CONSOLE OPERATOR,2,Discipline
+359,B. Sc. Engineering in Mechanical Bangladesh ,4,Qualifiations
+360, Diploma Engineering in Mechanical Bangladesh ,4,Qualifiations
+361,United Petroleum ,1,Industry
+362,Bangladesh Water Development Board,1,Industry
+363,BondStrong Pty Ltd ,1,Industry
+364,Pipex Limited ,1,Industry
+365,"Graduate Diploma in Project Management, Manukau Institute of Technology, Auckland, New Zealand",4,Qualifiations
+366,"Bachelor of Mechanical Engineering, University of Mumbai, Mumbai, India",4,Qualifiations
+367,"Certificate Course in Non-destructive Testing, Sonic Inspection Services, Navi  Mumbai, India",4,Qualifiations
+368,SKB Builders India Limited,1,Industry
+369,Offshore Infrastructure Limited,1,Industry
+370,Junior Mechanical,2,Discipline
+371,Structural Engineer,2,Discipline
+372, Process Operation,2,Discipline
+373,water utilities,1,Industry
+374,BS (Mech) University of Sri Lanka,4,Qualifiations
+375,MBA (University of Honolulu),4,Qualifiations
+376,Vibration Analysis ISO Category 3 ,4,Qualifiations
+377,Machinery Lubrication Analysis Level 1. ,4,Qualifiations
+378,Howden Thomassen Compressors trouble shooting and maintenance,4,Qualifiations
+379,manufacture,1,Industry
+380,bearing manufacturer,1,Industry
+381,Mechanical Engineering from Institution of Engineers (India) ,4,Qualifiations
+382,"Diploma in Mechanical Engineering from Govt. Polytechnic, Amritsar ",4,Qualifiations
+383,"Certificate course CAD,CAM and CNC machining from Central Tool Room, India",4,Qualifiations
+384,oil $ gas,1,Industry
+385,oil&gas,1,Industry
+386,"BE(Mechanical) – JSPM’S Jayawantrao Sawant college of engineering, Savitribai Phule Pune University",4,Qualifiations
+387,HSC – Nutan Jr Science college Malkapur,4,Qualifiations
+388,SSC – M.S.M English School Malkapur ,4,Qualifiations
+389,"	Bachelor of Civil Engineering - Sardar Patel University, India ",4,Qualifiations
+390,"	Diploma of Civil Engineering - Technical Education Board, India",4,Qualifiations
+391,B.E. Chemical from C.R. State College of Engineering Murthal Sonipat,4,Qualifiations
+392,Certificate of Mechanical Engineering - Sydney Technical College,4,Qualifiations
+393,Certificate IV in Frontline Management,4,Qualifiations
+394,Diploma of Project Management.,4,Qualifiations
+395,oil& gas & mining,1,Industry
+396,Bachelor of Science Engineering Science and Economics,4,Qualifiations
+397,architecture,1,Industry
+398,univercity project,1,Industry
+399,Overseas Qualified Professional Program (OQP),4,Qualifiations
+400,Postgraduate studies in Chemical Engineering,4,Qualifiations
+401,Bachelor of Science in Chemical Engineering,4,Qualifiations
+402,Diploma in Mechanical Engineering,4,Qualifiations
+403,Diploma in Heating Ventilation and Air Conditioning,4,Qualifiations
+404,Diploma in Revit MEP,4,Qualifiations
+405,Data Science,2,Discipline
+406,gold mine,1,Industry
+407,gold mining,1,Industry
+408,Monash University Australia,4,Qualifiations
+409,Sr Process Engineer,2,Discipline
+410,"•	B.E (Chemical) from BIT Sindri (Ranchi Univ.), India",4,Qualifiations
+411,water,1,Industry
+412,"Energy and Process Master (ENEP), IFP School",4,Qualifiations
+413,"Process Engineering Master, UTC (Compiegne University of Technology)",4,Qualifiations
+414,"Chemical Engineering Cycle (half year), Lappeenranta University of Technology",4,Qualifiations
+415,"Bachelor of Chemistry and Physics, Paris 7 University (Denis Diderot University)",4,Qualifiations
+416,"Science of Life, two years study, Paris 13 University",4,Qualifiations
+417,Plant Design &Piping Engineering,2,Discipline
+418,Professional Mechanical Engineer,4,Qualifiations
+419,Post Graduate Diploma in Power Plant,4,Qualifiations
+420,Bachelor of Engineering in Mechanical ,4,Qualifiations
+421,gas plant power,1,Industry
+422,Bachelor of Engineering - Metallurgy ,4,Qualifiations
+423,"•	CSWIP – 3.1 Welding Inspector",4,Qualifiations
+424,"•	ASNT LEVEL II CERTIFICTE IN",4,Qualifiations
+425,"•	ULTRASONIC TESTING",4,Qualifiations
+426,"•	MAGNETIC PARTICLE TESTING",4,Qualifiations
+427,"•	RADIOGRAPHIC TESTING",4,Qualifiations
+428,"•	DYE PENETRANT TESTING",4,Qualifiations
+429,QA/QC Engineer ,2,Discipline
+430,"Master of Engineering Science in Petroleum Engineering The University of New South Wales, Australia",4,Qualifiations
+431,"Bachelor of Engineering in Mechanical Engineering Anna University, India",4,Qualifiations
+432,anufacturing,1,Industry
+433,Bachelors in Engineering. (Industrial & Production Engineering) ,4,Qualifiations
+434,Advance Diploma in Tool & Die Making,4,Qualifiations
+435,"Masters of Mechanical Engineering, Edith Cowan University ",4,Qualifiations
+436,B. Eng. Mechanical,4,Qualifiations
+437,sales,1,Industry
+438,Senior Structural Designer/Drafter,2,Discipline
+439,Umbilical Risers and Flow lines ,1,Industry
+440,mechanical engineering,2,Discipline
+441,"Master of Engineering, Curtin University, Perth, Western Australia",4,Qualifiations
+442,"Msc Structural Engineering, Newcastle University, Newcastle Upon Tyne, United Kingdom",4,Qualifiations
+443,"BEng 2:1 Honors Mechanical Engineering, London South Bank University",4,Qualifiations
+444,CPPM,4,Qualifiations
+445,Certified Practicing Project Manager,4,Qualifiations
+446,Associate Fellow - Australian Institute of Management,4,Qualifiations
+447,Masters of Project Management,4,Qualifiations
+448,Lean Six Sigma Green belt ,4,Qualifiations
+449,Associate Diploma Mechanical Engineering,4,Qualifiations
+450,Diploma of Oil and Gas Engineering,4,Qualifiations
+451,Cert IV Engineering (General),4,Qualifiations
+452,Cert IV Front Line Management ,4,Qualifiations
+453,Cert IV Work Health and Safety (OHS),4,Qualifiations
+454,OH&S White Card,4,Qualifiations
+455,"TBOSIET, HUET",4,Qualifiations
+456,MSIC Holder,4,Qualifiations
+457,BIM,1,Industry
+458,Oracle,7,Computer Skills
+459,"Mining, Oil & Gas",1,Industry
+460,Medicine,1,Industry
+461,Telecommunication,1,Industry
+462,Computing,1,Industry
+463,Insurance,1,Industry
+464,SQL,7,Computer Skills
+465,Shellscrupt,7,Computer Skills
+466,ADI,6,skills
+467,UPK,6,skills
+468,Shellscript,7,Computer Skills
+469,Front End Engineering Design,6,skills
+470,3D Modeling,6,skills
+471,2D Drafting,6,skills
+472,Microsoft Office,7,Computer Skills
+473,EPFCM,1,Industry
+474,Investment,1,Industry
+475,Bachelor of Commerce (Honors),4,Qualifiations
+476,Software,1,Industry
+477,Process Design Leadership,6,skills
+478,P&ID Development,NULL,NULL
+479,Natural gas processing & storage,NULL,NULL
+480,"HAZOP, HAZID and SIL studies",NULL,NULL
+481,report writing,NULL,NULL
+482,Hazardous Area Classification,NULL,NULL
+483,Specification of advanced control systems’ requirements,NULL,NULL
+484,"Expertise in metering, custody transfer and gas transmission facilities",NULL,NULL
+485,Bachelor of Engineering (Chemical),4,Qualifiations
+486,Chartered Engineering,4,Qualifiations
+487,Hazardous Materials,1,Industry
+488,P&ID,NULL,NULL
+489,Piping Design,NULL,NULL
+490,project scheduling,NULL,NULL
+491,Bachelor of Engineering (Mechanical),4,Qualifiations
+492,Higher Secondary Examination,4,Qualifiations
+493,Madhyamik Examination,4,Qualifiations
+494,Caesar II,NULL,NULL
+495,Excel,7,Computer Skills
+496,VPRM,NULL,NULL
+497,JMMS,NULL,NULL
+498,PDS,NULL,NULL
+499,Autoplant,7,Computer Skills
+500,SPR,NULL,NULL
+501,Visual Basic,7,Computer Skills
+502,Microstation Basics,NULL,NULL
+503,Problem solving,NULL,NULL
+504,Budgeting and Expenditure Control,NULL,NULL
+505,Techno-commercial Support,NULL,NULL
+506,Master of Technology (Power System)(Electrical),4,Qualifiations
+507,Bachelor of Technology,4,Qualifiations
+508,Bachelor of Science,4,Qualifiations
+509,Indian Military Academy,4,Qualifiations
+510,PMP from PMI,4,Qualifiations
+511,Post graduate certificate in Business Management,4,Qualifiations
+512,Military,1,Industry
+513,Militart,1,Industry
+514,DIPLOMA   (Mechanical Engineering) ,4,Qualifiations
+515,Certificate in Mechanical engineering with 1st div. from N.C.V.T,4,Qualifiations
+516,Chemical engineer,2,Discipline
+517,PMP Certification- In view,4,Qualifiations
+518,Certificate IV in Process Plant Technology,4,Qualifiations
+519,Master of Business and Project Management MBPM,4,Qualifiations
+520,Graduate Certificate in Project Management,4,Qualifiations
+521,"Bachelor of Engineering, Chemical Engineering",4,Qualifiations
+522, building industry,1,Industry
+523,power transmission,1,Industry
+524,pipe line design,1,Industry
+525,Instrumentation Engineer,2,Discipline
+526,"•	Bachelor of Engineering (Electronics, Instrumentation and Control) ",4,Qualifiations
+527,"•	Certificate IV OQP (Overseas Qualified Professionals) program",4,Qualifiations
+528,power generation,1,Industry
+529,Bachelor of Engineering (Mechanical Engineering) Curtin University,4,Qualifiations
+530,Western Australian Certificate of Education Carey Baptist College,4,Qualifiations
+531,Monitored Security Systems,1,Industry
+532,Library,1,Industry
+533,Process & Chemical Engineer,2,Discipline
+534,Process Engineering (M.S.) TMU University,4,Qualifiations
+535,Chemical Engineering (B.S.) Tehran Islamic Azad University,4,Qualifiations
+536,Professional Chemical Engineer Assessment Engineers Australia Qualification (EA ID: 4701875),4,Qualifiations
+537,Validation& Opportunity Analysis Business Planning Portfolio Analysis Center for Technology Studies of France Cooperated with,4,Qualifiations
+538,Aspen Hysys Simulation Software Iranian Association of Chemical Engineering,4,Qualifiations
+539,"Aspen Plus, Aspen HTFS and HTMI Simulation Software Sazeh Sanat Pahang Eng. Co",4,Qualifiations
+540,energy and resources,1,Industry
+541,water & wastewater treatment,1,Industry
+542,Chemical & Fertilizer,1,Industry
+543,ammonium sulfate manufacturer,1,Industry
+544,B.E Hons. – Bachelors of Mechanical Engineering – Curtin University of Technology,4,Qualifiations
+545,LNG Power Plant,1,Industry
+546,"Edith Cowan University, Western Australia December 2016 Bachelor of Mechanical Engineering",4,Qualifiations
+547,"Central TAFE-Subiaco, Western Australia  Diploma of Engineering (Mechanical)",4,Qualifiations
+548,Air force,1,Industry
+549,B.E. (Mechanical),4,Qualifiations
+550,Masters of Engineering in Oil and Gas (MEOG),4,Qualifiations
+551,Bachelors of Technology in Chemical Engineering (B.Tech),4,Qualifiations
+552,security,1,Industry
+553,Bachelor of Civil Engineering (Honours),4,Qualifiations
+554,Construction/Water Corporation,1,Industry
+555,2014 - Autodesk INVENTOR Professional 2014 Course,4,Qualifiations
+556,Challenger TAFE - Certificate IV in Engineering (Technician Traineeship),4,Qualifiations
+557,Masters of Mechanical Engineering,4,Qualifiations
+558,Machelor of Engineering (Mechanical),4,Qualifiations
+559,ISO 9001-2015 Quality Systems Auditing,4,Qualifiations
+560,Matlab,7,Computer Skills
+561,ANSYS,7,Computer Skills
+562,Solidworks,7,Computer Skills
+563,ABAQUS,7,Computer Skills
+564,Malayalam,3,Language
+565,Hindi,3,Language
+566,Tamil,3,Language
+567,Electrical & Instrumentational,2,Discipline
+568,Post Graduate Diploma in Planning and Management,4,Qualifiations
+569,Bachelors of Engineering ( Electronics & Control Engineering),4,Qualifiations
+570,ABB Pvt Ltd on 800 XA DCS System,4,Qualifiations
+571,Leadership for Young Managers [Steel Authority of Indea Ltd.],4,Qualifiations
+572,Business Risk and Data Analysis,6,skills
+573,Customer Service,6,skills
+574,Conflict Resolution,6,skills
+575,Project and Operations management,6,skills
+576,Design and Detail Engineering,2,Discipline
+577,SIS,6,skills
+578,Safety Integration Level,6,skills
+579,Safety Instument Systems=,6,skills
+580,ETAP,6,skills
+581,Febdok,6,skills
+582,SPEL,6,skills
+583,Norwegian,3,Language
+584,Portuguese,3,Language
+585,English,3,Language
+586,Senior Principal Engineer (Electrical),2,Discipline
+587,Machelor of Engineering (Hons. First Class),4,Qualifiations
+588,Higher School Certificate,4,Qualifiations
+589,Secondary School Certificate,4,Qualifiations
+590,Bhabha Atomic Research Centre,4,Qualifiations
+591,ISO 9000-2000,6,skills
+592,ISO 9000-1994,6,skills
+593,DEBDOK,6,skills
+594,NORSOK,6,skills
+595,Project Engineering & Construction,6,skills
+596,Cabsys,6,skills
+597,Sumulink,6,skills
+598,Microsoft Windows,7,Computer Skills
+599,PDMS,6,skills
+600,Design Lab Eval 8,6,skills
+601,PSpice,6,skills
+602,Schematic,6,skills
+603,Government,1,Industry
+604,EPCM Project Enginnering,NULL,NULL
+605,EPCM Project Engineering,NULL,NULL
+606,Masters in Project Management,4,Qualifiations
+607,Diploma in Non-destructive Testing Piping and Welding inspection,4,Qualifiations
+608,Time Management,6,skills
+609,Troubleshooting,6,skills
+610,Data Analysis,6,skills
+611,Financial Analysis,6,skills
+612,Finance,1,Industry
+613,Masters of Technology (Environmental),4,Qualifiations
+614,Bachelor of Engineering (Civil),4,Qualifiations
+615,Hydrolic Modelling,2,Discipline
+616,Hydraulic Modelling,6,skills
+617,Topographic survey,6,skills
+618,Hydraulic Model Verification,6,skills
+619,Urban Polution Study,6,skills
+620,Wastewater network assessment,6,skills
+621,Infrastructure,1,Industry
+622,Tender & Proposal Management,6,skills
+623,Infoworks,7,Computer Skills
+624,MapInfo,7,Computer Skills
+625,ArcGIS,7,Computer Skills
+626,WaterGems,7,Computer Skills
+627,Australian C Class Driving Licence,4,Qualifiations
+628,CIWEM,4,Qualifiations
+629,Planning Engineer,NULL,NULL
+630,Front End Engineering Design [FEED],6,skills
+631,Detail Design,6,skills
+632,Procurment,6,skills
+633,Procurement,6,skills
+634,Primavera Project Operator,6,skills
+635,Delay Analysis,6,skills
+636,Stakeholder Relationship,NULL,NULL
+637,schedule management,NULL,NULL
+638,cost management,NULL,NULL
+639,Construction Scheduling,NULL,NULL
+640,Bachelor In Industrial and Production Engineering,4,Qualifiations
+641,Risk Management,NULL,NULL
+642,AIPSM Process Safety Management,NULL,NULL
+643,Piping and Mechanical,2,Discipline
+644,Bachelor of Engineering ( Mechanical ),4,Qualifiations
+645,"Certified Professional Engineer, Australia",4,Qualifiations
+646,National Engineers Register - Australia,4,Qualifiations
+647,Asset Integrity Management,NULL,NULL
+648,Mentoring,NULL,NULL
+649,Professional services,1,Industry
+650,Oil & Cas,1,Industry
+651,Resources and energy,1,Industry
+652,Critical Infrastructure,1,Industry
+653,Healthcare,1,Industry
+654,"Construction, Manufacturing",1,Industry
+655,Stress Analysis,6,skills
+656,Fitness for Service Assessment,6,skills
+657,Vibration Assessments,6,skills
+658,Debottlenecking studies,6,skills
+659,Root Cause Analysis,6,skills
+660,CAESAR 2,6,skills
+661,Prepare Technical Documents,6,skills
+662,Capital Stewardship Organizational Capability (CSOC),6,skills
+663,Bachelor of Petroleum Engineering,4,Qualifiations
+664,Petrel,7,Computer Skills
+665,Eclipse,7,Computer Skills
+666,HYSYS,7,Computer Skills
+667,WellCAD,7,Computer Skills
+668,VBE,NULL,NULL
+669,C++,7,Computer Skills
+670,Bengali,3,Language
+671,Documentation control,6,skills
+672,Design Validation,6,skills
+673,Document Preparation,6,skills
+674,Society of Petroleum Engineers International Membership,4,Qualifiations
+675,National Police Clearance,4,Qualifiations
+676,Australian Drivers License Class C [Manual],4,Qualifiations
+677,Mechanical or Industrial Engineering,1,Industry
+678,Instrumental Engineering,2,Discipline
+679,Steel,1,Industry
+680,Service,1,Industry
+681,Circuit Design,6,skills
+682,Asset Management System,6,skills
+683,Energy Delivery,6,skills
+684,Interpersonnel Skills,6,skills
+685,Interpersonal Skills,6,skills
+686,configuring industrial networks,6,skills
+687,P&I Drawing,6,skills
+688,GA Drawing,6,skills
+689,DCS/PLC Engineering Drawing,6,skills
+690,Control System Configuration,6,skills
+691,Bachelor of Engineering ( Electronics & Control Systems ),4,Qualifiations
+692,Preventative Maintenance,6,skills
+693,Laboratory equipment,1,Industry
+694,technical bid evaluation,6,skills
+695,Project Start-up,6,skills
+696,Quality Check,6,skills
+697,Acceptance Testing,6,skills
+698,Emerson Process Management,6,skills
+699,Generate Technical Materials,6,skills
+700,Operations Management,6,skills
+701,Risk and Data Analysis,6,skills
+702,Competitive Analysis,6,skills
+703,Chartered Professional Engineer ( Chemical & Process ),4,Qualifiations
+704,Process Modelling,2,Discipline
+705,Process Simulation,2,Discipline
+706,Process Control Design,NULL,NULL
+707,Implementation,2,Discipline
+708,Operator Training,2,Discipline
+709,Advanced Process Control (MVC),2,Discipline
+710,Multi-Billiton dollar Project Management,2,Discipline
+711,contractor Management,2,Discipline
+712,Multiphase Reactor Experiments,2,Discipline
+713, Modelling & Simulation,6,skills
+714,CFD Modelling,6,skills
+715,Scientific Research,6,skills
+716,Environmental Management,6,skills
+717,Chemical Plant Operation,6,skills
+718,Operational Support,6,skills
+719,Calculation Review,6,skills
+720,Process Control support,6,skills
+721,ESD design review,6,skills
+722,High Pressure / high temperature system control loop,6,skills
+723,Control system Functional description review,6,skills
+724,Quantitative Risk Assessment (QRA),6,skills
+725,Safety Integrity Level (SIL),6,skills
+726,Steady state and Dynamic Flow-sheet models (PFDs),6,skills
+727,Aspen Tech Softwares,7,Computer Skills
+728,Operator Training Simulator (Shadow plant / Unisim),6,skills
+729,SysCAD,7,Computer Skills
+730,Foundation Fieldbus Instruments commissioning,6,skills
+731,Configuration Studio,7,Computer Skills
+732,Quick Builder,7,Computer Skills
+733,Graphics Builder,7,Computer Skills
+734,Honeywell Field Device Manager,7,Computer Skills
+735,Control Logic review,6,skills
+736,PCS FAT / SAT experience.,6,skills
+737,HMI Graphics design and Implementation,6,skills
+738,PAS alarm management suites,7,Computer Skills
+739,Aspen Plus,NULL,NULL
+740,EPCM contractor Coordination / Management,6,skills
+741,Visual Basic for Application (VBA),7,Computer Skills
+742,CSPC Tools,7,Computer Skills
+743,Equipment Health monitoring,6,skills
+744,Energy improvement opportunities,6,skills
+745,Flow-sheeting process modelling,6,skills
+746,CFD Equipment design,6,skills
+747,Simulation,6,skills
+748,Research,6,skills
+749,Fertilizer plant operation,6,skills
+750,industrial management,6,skills
+751,Environmental Management System (EMS),6,skills
+752,Performance and capacity testing,6,skills
+753,Feasibility study,6,skills
+754,Develops implementation plan for critical recommendations,6,skills
+755,review data sheets,6,skills
+756,Alumina Process Modelling,6,skills
+757,Process Hazards Analysis (PHA),6,skills
+758,Flow-sheet modelling softwares,7,Computer Skills
+759,Development of user interface for Full Refinery Model,6,skills
+760,Development of Real time Process Monitoring and Troubleshooting Model for Causticiser Performance improvement,6,skills
+761,Modelling and Integration of Liquor Burner Model with Full Refinery Model.,6,skills
+762,(Computer aided radioactive particle tracking (CARPT),7,Computer Skills
+763,Computer tomography (CT),7,Computer Skills
+764,Impulse gas tracer,7,Computer Skills
+765,Four Point Optical Probe,7,Computer Skills
+766,Alkali industry,1,Industry
+767,Urdu,3,Language
+768,Punjabi,3,Language
+769,Simulink,7,Computer Skills
+770,ACM,7,Computer Skills
+771,GAMBIT,7,Computer Skills
+772,ANSYS Design Modeller,7,Computer Skills
+773,ANSYS CFX,7,Computer Skills
+774,FLUENT,7,Computer Skills
+775,BHP Billiton Way Awards 2014 Winner on Sustainability,4,Qualifiations
+776,Australian Postgraduate Award (APA) for research,4,Qualifiations
+777,Plastics,1,Industry
+778,Advanced Process Control,6,skills
+779,Practical Process Control,6,skills
+780,Alarm Management,6,skills
+781,Intermediate / Advanced BableFish,6,skills
+782,Environmental Health and Safety Course (EH&S),6,skills
+783,Radiation Hazards and Safety,6,skills
+784,Structural Design,6,skills
+785,Front-end Engineering,6,skills
+786,Mineral Processing,1,Industry
+787,STAAD Pro,7,Computer Skills
+788,Microstran,7,Computer Skills
+789,SpaceGass,7,Computer Skills
+790,Senior / Lead Civil & Structural Engineer,2,Discipline
+791,Masters of Science (Structureal Engineering),4,Qualifiations
+792,Chartered Engineer,4,Qualifiations
+793,"Member, Institution of Engineers",4,Qualifiations
+794,"National Engineering Register, Engineers Australia",4,Qualifiations
+795,American Society of Civil Engineers,4,Qualifiations
+796," Institution of Engineers, India",4,Qualifiations
+797,Strand7,7,Computer Skills
+798,Mat3D,NULL,NULL
+799,Navisworks,NULL,NULL
+800,TEDDS,7,Computer Skills
+801,Front-end Engineering design,6,skills
+802,Quality management,6,skills
+803,personnel management,6,skills
+804,Oil & Energy,1,Industry
+805,Sales Bid,6,skills
+806,"Fellow of the Institution of Engineers, Australi",4,Qualifiations
+807,Construction Contracts managemen,6,skills
+808,Breathing Apparatus and Fire-fighting training,6,skills
+809,Helicopter underwater escape training,6,skills
+810,Mine Safety and Inspection Act,6,skills
+811,Certified Occupational Health and Safety Representative,6,skills
+812,Fitness-for-Service analysis,6,skills
+813,"scoping, award and management of construction contracts",6,skills
+814,quality assurance,6,skills
+815,Loss Control and Safety Management training,4,Qualifiations
+816,PCN Security,2,Discipline
+817,"Electrical, Instrumentation & Control Systems Engineering",2,Discipline
+818,Minerals Processing,1,Industry
+819,Fertiliser Processing,1,Industry
+820,Food Processing,1,Industry
+821,Paper & Pulp Processing,1,Industry
+822,Oil Processing,1,Industry
+823,Bachelor of Technology (Mechanical),4,Qualifiations
+824,Institute of Advanced Education,4,Qualifiations
+825,Fibre-reinforced plastic design,6,skills
+826,Fibre-reinforced plastic Quality Assurance,6,skills
+827,piping system design,6,skills
+828,Bachelor of Chemical & Processing Engineering,4,Qualifiations
+829,Bachelor of Chemical & Process Engineering,4,Qualifiations
+830,Honeywell Experion,7,Computer Skills
+831,Aspen HYSYS,7,Computer Skills
+832,HAZOP/HAZID studies,6,skills
+833,Layers of Protection Analysis,6,skills
+834,Safety Integrity Level Study,6,skills
+835,Sankey Diagrams,6,skills
+836,Mining Engineer,2,Discipline
+837,Spanish,3,Language
+838,TALPAC,7,Computer Skills
+839,XPAC,7,Computer Skills
+840,XERAS,7,Computer Skills
+841,Mine Design,6,skills
+842,Open Put Mining,2,Discipline
+843,Underground Mining,2,Discipline
+844,Risk Assesment,6,skills
+845,System Design,6,skills
+846,System Integration,6,skills
+847,Operations Analysis,6,skills
+848,Valuation,6,skills
+849,Feasibility Studies,6,skills
+850,Deasibility Studies,8,workSegment
+851,Bachelor of Engineering (Mining),4,Qualifiations
+852,Post Graduate Diploma (Financial Accounting),4,Qualifiations
+853,Australian Institute of Mining and Metalurgy (fellow),4,Qualifiations
+854,Chartered Professionals (Mining),4,Qualifiations
+855,First Class Mine Managers Certificate,4,Qualifiations
+856,legal representative,2,Discipline
+857,Country Manager,2,Discipline
+858,Project Development,6,skills
+859,Project Planning,6,skills
+860,Technical Report Writing,6,skills
+861,Performance reconciliation,6,skills
+862,Team Leading,6,skills
+863,Team Mentoring,6,skills
+864,Contract Tender,6,skills
+865,Contract Management,6,skills
+866,Business Unit Administration,8,workSegment
+867,TAFE  Pipe Fitters ,NULL,NULL
+868,FRP PIPING INSPECTOR D6,NULL,NULL
+869,Bachelor of Technology (Chemical Engineering ),4,Qualifiations
+870,Institution of Engineers [fellow],4,Qualifiations
+871,Former UN Fellow (Advanced Process Systems),4,Qualifiations
+872,Pipelines,2,Discipline
+873,Design Review,6,skills
+874,Process Safety & Integrity Management,6,skills
+875,Processw Engineering,8,workSegment
+876,Risk & Hazard Analysis,6,skills
+877,Value Assurance,6,skills
+878,Technical Assurance Reviews,6,skills
+879,CTR Development,6,skills
+880,Economic Analysis,6,skills
+881,Life cycle cost analysis,6,skills
+882,Flow assurance,6,skills
+883,Gas Processing,1,Industry
+884,HAZID,6,skills
+885,CHAZOP,6,skills
+886,ENVHAZOP,6,skills
+887,IPF&SIL,6,skills
+888,QRA,6,skills
+889,Isolation reviews,6,skills
+890,Constructability Review,6,skills
+891,IPF & SIL Classifications,4,Qualifiations
+892,Competency certificate on EEHA,4,Qualifiations
+893,Advance Diplomer of Mechanical Engineering,4,Qualifiations
+894,Windows,7,Computer Skills
+895,Map 101,7,Computer Skills
+896,Microstation,7,Computer Skills
+897,Pipenet-sprinker spray module,7,Computer Skills
+898,PHAST,7,Computer Skills
+899,Fire Protection,1,Industry
+900,Design Engineering,8,workSegment
+901,Fire Zoning,6,skills
+902,Fire & Gas Detection,6,skills
+903,Cause & Effect Chart,6,skills
+904,Smoke Modelling,6,skills
+905,Instrument air network design,6,skills
+906,Fire System Installation,6,skills
+907, project risk assessment,6,skills
+908,review of emergency electrical shutdown philosophy,6,skills
+909,BSc. Mechanical Engineering,4,Qualifiations
+910,MIEAust,4,Qualifiations
+911,MIESL,4,Qualifiations
+912,3D Modelling,7,Computer Skills
+913,Smap3D Plant Design,7,Computer Skills
+914,Pipeflow Expert,7,Computer Skills
+915,Microsoft Project,7,Computer Skills
+916,Construction White Card,4,Qualifiations
+917,Confined Space,4,Qualifiations
+918,Section 44 Appointed Persons,4,Qualifiations
+919,"RTIO Site Essentials, Lock Holder, Personal Isolation Officer, and Permit Isolation Officer Training",4,Qualifiations
+920,Smap3D Plant Design Training,4,Qualifiations
+921,Certified SolidWorks Professional,4,Qualifiations
+922,Completed Diploma in Mechanical Engineering & CAD,4,Qualifiations
+923,Completed Advanced Diploma in Mechanical Engineering,4,Qualifiations
+924,Bachelor of Engineering Honors [Electrical Power Major],4,Qualifiations
+925,Mechanical Deafting and Engineering,2,Discipline
+926,Logistics,2,Discipline
+927,Resource Management,6,skills
+928,Job Scheduling,6,skills
+929,Client Liaison,6,skills
+930,Scheduling,6,skills
+931,Masters of Oil & Gas Engineering,4,Qualifiations
+932,French,3,Language
+933,Diploma in French Language,4,Qualifiations
+934,Bachelor of Education,4,Qualifiations
+935,Masters of Arts,4,Qualifiations
+936,Bachelor of Arts,4,Qualifiations
+937,NAATI Accredited Professional Translator,4,Qualifiations
+938,Wordfast,7,Computer Skills
+939,Trados,7,Computer Skills
+940,Confined Space Entry Permit,4,Qualifiations
+941,Construction OH&S White Card,4,Qualifiations
+942,"•	D.6 Certification of GRP Pipe Fitter – Inspector TAFE Course",4,Qualifiations
+943,"•	D.5 Certification of GRP Pipe Fitter - Supervisor TAFE Course",4,Qualifiations
+944,Managing Safety,6,skills
+945,Conduct Inductions,6,skills
+946,VOC,6,skills
+947,SIMOPPS ,6,skills
+948,Quality Inspections,6,skills
+949,Quality Documentation,6,skills
+950,Safety Audit,6,skills
+951,Project programming and scheduling,6,skills
+952,Inspection & Test Plan,6,skills
+953,Risk identification and Assessment,6,skills
+954,BIOWIN,7,Computer Skills
+955,CALPUFF,7,Computer Skills
+956,AERMOD,7,Computer Skills
+957,Wastewater,2,Discipline
+958,Processing,1,Industry
+959,Air Pollution Control,2,Discipline
+960,Prepare Client Reports,6,skills
+961,Site based Management Plans,6,skills
+962,Masters of Engineering [Environmental],4,Qualifiations
+963,Bachelor of Engineering [Chemical],4,Qualifiations
+964,Current Queensland Open Manual Driver’s License,4,Qualifiations
+965,Bachelor in Engineering [Production Engineering],4,Qualifiations
+966,Project Management Institute [member],4,Qualifiations
+967,Association of Cost Engineers [member],4,Qualifiations
+968,Primavera-P6,7,Computer Skills
+969,Scheduler,7,Computer Skills
+970,SAP,7,Computer Skills
+971,PRISM,7,Computer Skills
+972,Microsoft Access,7,Computer Skills
+973,LLink,7,Computer Skills
+974,@Risk,7,Computer Skills
+975,ACAD,7,Computer Skills
+976,Trusted Computing (TC),7,Computer Skills
+977,Critical path analysis,6,skills
+978,Databasing,6,skills
+979,Budgeting,6,skills
+980,Cost Status Report (CSR),6,skills
+981,Visio,7,Computer Skills
+982,Instument diagnostics,6,skills
+983,Instrument Repair,6,skills
+984,SAG System,7,Computer Skills
+985,PHOLOS,7,Computer Skills
+986,Masters of Electrical Engineering,4,Qualifiations
+987,Diploma of Teacher of computer engineering,4,Qualifiations
+988,Certificate POWER INDUSTRY Siemens,4,Qualifiations
+989,PROCESS AUTOMATION Siemens,4,Qualifiations
+990,RUGGEDCOM for SUBSTATION Siemens,4,Qualifiations
+991,FULL SERVICE ABB,4,Qualifiations
+992,ABB Relay protection,4,Qualifiations
+993,TAFE certificat IV in CSWE,4,Qualifiations
+994,High Risk License (LF),4,Qualifiations
+995,E-Car certified Information System Security Pro (CISSP),4,Qualifiations
+996,Driving License C Class Manual,4,Qualifiations
+997,Planning,8,workSegment
+998,Coorination,8,workSegment
+999,due-diligence studies,6,skills
+1000,Plant configuration study,6,skills
+1001,HMDB Review,6,skills
+1002,efficiency/heat rates,6,skills
+1003,auxilary power consumption,6,skills
+1004,plant reliability,6,skills
+1005,Layout Design,6,skills
+1006,HAZOP Studies,6,skills
+1007,Bachelor of Technology (Mechanical Engineering),4,Qualifiations
+1008,Masters of Engineering (Project Engineering),4,Qualifiations
+1009,Post graduate certificate in management,4,Qualifiations
+1010,O&M Performance review,6,skills
+1011,Stress Engineering,2,Discipline
+1012,safety management,6,skills
+1013,structural engineering,2,Discipline
+1014,Cost Engineering,2,Discipline
+1015,handover,8,workSegment
+1016,facility engineering,1,Industry
+1017,Nuclear Power,1,Industry
+1018,Bachelor of Engineering [Electrical & Electronics],4,Qualifiations
+1019,Product Risk Review,6,skills
+1020,Bachelor in Engineering [Mechanical Engineering],4,Qualifiations
+1021,Professional Short Course “Technical Spread Sheeting”,4,Qualifiations
+1022,Autodesk Inventor,7,Computer Skills
+1023,3D CAD,7,Computer Skills
+1024,Drive Safe Australia – Commercial / Light Vehicle Operation (4WD / Defensive Driving / Gravel Roads),4,Qualifiations
+1025,Drive Safe Australia – Operate and Maintain a Four Wheel Drive Vehicle in the Field (Drive and Recovery),4,Qualifiations
+1026,Process Design,8,workSegment
+1027,Plant Operations,2,Discipline
+1028,Technology Selection,NULL,NULL
+1029,PRO/II,7,Computer Skills
+1030,preservation study,6,skills
+1031,Process / Facilities Engineering Consultant,2,Discipline
+1032,American Institute of Chemical Engineers [Senior Member],4,Qualifiations
+1033,Strategic change management,6,skills
+1034,Contract & contractor management,6,skills
+1035,Budget Control,6,skills
+1036,Negotiation,6,skills
+1037,Project Engineerng,2,Discipline
+1038,MIMS,7,Computer Skills
+1039,Enterprises Asset Management (EAM),7,Computer Skills
+1040,Smart Plant 3D,7,Computer Skills
+1041,strand6,7,Computer Skills
+1042,Graduate Diploma (Maintenance and Engineering Management],4,Qualifiations
+1043,MBA [Finance & Marketing],4,Qualifiations
+1044,Bachelor of Engineering [Mechanical],4,Qualifiations
+1045,Registered Professional Mechanical Engineer in Queensland (RPEQ),4,Qualifiations
+1046,"Professional Engineer, Engineers Australia [fellow, chartered]",4,Qualifiations
+1047,"Registered Project Manager, AIPM Australia",4,Qualifiations
+1048,Certified 5 SIGMA green belt chamption,4,Qualifiations
+1049,ISO 55000 Trained,4,Qualifiations
+1050,Key Account Management,2,Discipline
+1051,Food,1,Industry
+1052,Customer Management,2,Discipline
+1053,Dealer Mamagement,2,Discipline
+1054,capital equipments,2,Discipline
+1055,Diploma [Electrical Engineering],4,Qualifiations
+1056,"	Completed Certificate course in PLC & HMI programming and Troubleshooting",4,Qualifiations
+1057,Certificate Course in PC Hardware and maintenance,4,Qualifiations
+1058,Technicians Diploma in Electronic Equipment Installation and repair ,4,Qualifiations
+1059,Certified Functional Safety Professiona,4,Qualifiations
+1060,Masters in Engineering Science [Telecommunications],4,Qualifiations
+1061,Bachelors in Engineering [Communcation Systems],4,Qualifiations
+1062,Electrical Instumentation & Control Systems,6,skills
+1063,PCN Cybersecurity,6,skills
+1064,functional safety,6,skills
+1065,Wired & wireless communication systems engineering,6,skills
+1066,ISA 18.2 and EEMUA191: 2007,6,skills
+1067,Project planning & cost estimation,6,skills
+1068,Project cost control & forecasting,6,skills
+1069,Project management & compliance auditing,6,skills
+1070,hmi development,6,skills
+1071,Specification,8,workSegment
+1072,"IEC 61508 & 61511, CFSP",4,Qualifiations
+1073,IEC 62443 and NIST SP800-82,4,Qualifiations
+1074,Diploma of Purchasing,4,Qualifiations
+1075,"Advanced Certificate, Electronic Engineering",4,Qualifiations
+1076,finite element analysis,6,skills
+1077,detailed engineering,8,workSegment
+1078,project studies,8,workSegment
+1079,structural integrity inspection,6,skills
+1080,MathCAD,7,Computer Skills
+1081,Space Gass,7,Computer Skills
+1082,Primavera Project Planner,7,Computer Skills
+1083,Bachelor of Engineering [Civil],4,Qualifiations
+1084,Institution of Engineers Australia [member],4,Qualifiations
+1085,Confined Space Training,4,Qualifiations
+1086,Working at Heights Training,4,Qualifiations
+1087,MSIC and Patrick Access,4,Qualifiations
+1088,Line Management,6,skills
+1089,Bachelor of Electrical and Electronics Engineering,4,Qualifiations
+1090,Chartered Professionals [Engineering],4,Qualifiations
+1091,"Diploma in Electronics, Computer and Communications Engineering",4,Qualifiations
+1092,Microsoft Visio,7,Computer Skills
+1093,PLC,7,Computer Skills
+1094,ORCAD,7,Computer Skills
+1095,LabVIEW,7,Computer Skills
+1096,Driving License,4,Qualifiations
+1097,Engineering and lighting designs,6,skills
+1098,Maximum demand calculations,6,skills
+1099,Supply authority applications,6,skills
+1100,PowerCAD,7,Computer Skills
+1101,Specification and design brief documentation,6,skills
+1102,Design fee proposals,6,skills
+1103,Project and personnel management,6,skills
+1104,scada,6,skills
+1105,Electrical Engineering,2,Discipline
+1106,MYOB,7,Computer Skills
+1107,Dialux,7,Computer Skills
+1108,Pastel Accounting,7,Computer Skills
+1109,Communication Infrastructure,NULL,NULL
+1110,Lighting Design,6,skills
+1111,Section 44,4,Qualifiations
+1112,C Class License,4,Qualifiations
+1113,Certificate in Programmable Logic Controllers and SCADA Systems ,4,Qualifiations
+1114,Certificate in Electrical Installation Rules,4,Qualifiations
+1115,Diploma in Project Management,4,Qualifiations
+1116,National Higher Diploma in Electrical Engineering,4,Qualifiations
+1117,Trade Certificate – Electrician,4,Qualifiations
+1118,High Voltage,2,Discipline
+1119,Low Voltage,2,Discipline
+1120,Project Evaluation,6,skills
+1121,Site Management,6,skills
+1122,Hazardous Area Design,2,Discipline
+1123,Bachelor of Engineering [Electrical],4,Qualifiations
+1124,Institution of Engineers [Member],4,Qualifiations
+1125,Chartered Professional Engineers Australia,4,Qualifiations
+1126,EEEHA UTE NES 010A 010A Report on Integrity of Explosion-protected Equipment in Hazardous Areas,4,Qualifiations
+1127,EEHA UTE NES 107A Install Explosion-protected Equipment and Wiring Systems in Hazardous Areas,4,Qualifiations
+1128,EEHA UTE NES 706A Classification of Hazardous Areas,4,Qualifiations
+1129,EEHA UTE NES 409A/410A Inspection of Equipment in Hazardous Areas,4,Qualifiations
+1130,EEHA UTE NES 408A Test installation in Hazardous Areas,4,Qualifiations
+1131,Graduate Diploma of Management,4,Qualifiations
+1132,Bachelor of Engineering [Mechanical,4,Qualifiations
+1133,Australian Institute of Energy [Member],4,Qualifiations
+1134,ASME [Member],4,Qualifiations
+1135,"Mechanical College, IEAust [Member]",4,Qualifiations
+1136,"Chartered Professionals, NPER",4,Qualifiations
+1137,"Institution of Engineers, Australia [Member]",4,Qualifiations
+1138,HVAC,6,skills
+1139,SACS,7,Computer Skills
+1140,Sesam,7,Computer Skills
+1141,OSAP,7,Computer Skills
+1142,Mat 3D,7,Computer Skills
+1143,Frontend engineering design [FEED],8,workSegment
+1144,Offshore Oil & Gas,2,Discipline
+1145,Marine Hull Engineering,1,Industry
+1146,Nevis,6,skills
+1147,AISC & API,6,skills
+1148,DNV,6,skills
+1149,"	Fire safety Training ( Floor Fire warden )",4,Qualifiations
+1150,Bachelors of Engineering [Civil],4,Qualifiations
+1151,Water Treatment,1,Industry
+1152,Minerals,1,Industry
+1153,Utilities,1,Industry
+1154,Supply chain management,4,Qualifiations
+1155,Chartered Professionals [Engineer],4,Qualifiations
+1156,EEHA,6,skills
+1157,LOPA,6,skills
+1158,SIL,6,skills
+1159,ALARP,6,skills
+1160,railway,1,Industry
+1161,Field Engineering,8,workSegment
+1162,pipestress analysis,6,skills
+1163,Project Management Institute (PMI),4,Qualifiations
+1164,Engineergs Australia (MIEAust),4,Qualifiations
+1165,ASME B31.3 International Review Group,4,Qualifiations
+1166,The Welding Institute,4,Qualifiations
+1167,"-	Advance Pipe Stress Analysis Training ",4,Qualifiations
+1168,"-	PMI certified project management course",4,Qualifiations
+1169,Rail Industry Safety Induction ,4,Qualifiations
+1170,FATHOM fluid flow user training ,4,Qualifiations
+1171,"-	RIIOHS202A Enter and work in Confined space",4,Qualifiations
+1172,Safely work at heights ,4,Qualifiations
+1173,"-	MSAPMOHS217A Gas Test Atmospheres",4,Qualifiations
+1174,Project Delivery,8,workSegment
+1175,Work Breakdown Structure (WBS),6,skills
+1176,Project Schedule & Budget,6,skills
+1177,Monitor and control risk on project,6,skills
+1178,project planing,8,workSegment
+1179,Closeout,8,workSegment
+1180,project budgeting,6,skills
+1181,progress monitoring,6,skills
+1182,HAZID studies,6,skills
+1183,Translate LaserGen 3D survey data,6,skills
+1184,Pipe stress Analysis,6,skills
+1185,Plant Layout,2,Discipline
+1186,Incite,7,Computer Skills
+1187,Envision,7,Computer Skills
+1188,iProc,7,Computer Skills
+1189,OPPA,7,Computer Skills
+1190,FFDS,7,Computer Skills
+1191,PSFF,7,Computer Skills
+1192,FATHOM,7,Computer Skills
+1193,Arrow,7,Computer Skills
+1194,AutoPipe,7,Computer Skills
+1195,Bechtel ME-101,7,Computer Skills
+1196,Plant space,7,Computer Skills
+1197,Smart Plant Review (SPR),7,Computer Skills
+1198,Navigator,7,Computer Skills
+1199,3DM,7,Computer Skills
+1200,LaserGen,7,Computer Skills
+1201,PMI (Project Management Institute),4,Qualifiations
+1202,Engineers Australia (MIEAust) ,4,Qualifiations
+1203,Masters of Technology [Design & Production Engineering],4,Qualifiations
+1204,PV-Elite,7,Computer Skills
+1205,HTFS,7,Computer Skills
+1206,HTRI,7,Computer Skills
+1207,Floor Heating System Design,6,skills
+1208,Audit and Supervision of Piping and Instrumentation ,6,skills
+1209,Cooling Water Refrigeration,6,skills
+1210,Engineering General Essential Services ,6,skills
+1211,Pressure Vessel Design ,6,skills
+1212,mechanical design,6,skills
+1213,Bachelors of Engineering [Mechanical],4,Qualifiations
+1214,BEEaT Occupational Health and Safety ,4,Qualifiations
+1215,Certificate in mechanical Drafting ,4,Qualifiations
+1216,NACE Instructor for the ‘NACE Coating Inspection Program’,4,Qualifiations
+1217,NACE Certified Coating Inspector - Level 3 CIP No. 17648,4,Qualifiations
+1218,ACA Coatings Selection & Specification - Certificate 6116,4,Qualifiations
+1219,ACA/ACRA Corrosion & Protection of Reinforced Concrete - Certificate 6051,4,Qualifiations
+1220,Cert IV Workplace Training and Assessment – Certificate 5190882,4,Qualifiations
+1221,Cert III Surface preparation and Coating – Certificate C1073458,4,Qualifiations
+1222,ICORR Fireproofing and Insulation Inspector Level 2,4,Qualifiations
+1223,ICORR Galvanizing Inspector Level 2,4,Qualifiations
+1224,ACA - Australasian Corrosion Association,4,Qualifiations
+1225,NACE - National Association of Corrosion Engineers,4,Qualifiations
+1226,ICORR – institute of Corrosion,4,Qualifiations
+1227,SSPC - Society Steel Protective Coatings,4,Qualifiations
+1228,Inspection Test Plans (ITP),6,skills
+1229,Inspection,6,skills
+1230,Tender Consulting,6,skills
+1231,Training,6,skills
+1232,Project Co-ordinator,NULL,NULL
+1233,Project Manager,NULL,NULL
+1234,EC&I,NULL,NULL
+1235,Mechanical Piping Designer,NULL,NULL
+1236,Director,NULL,NULL
+1237,Mechanical  Engineer,NULL,NULL
+1238,Pipeline & Piping,NULL,NULL
+1239,Pipe Stress,NULL,NULL
+1240,Engineering management,NULL,NULL
+1241,Control Engineer,2,Discipline
+1242,Instrument Engineer,2,Discipline
+1243,SAP Software,7,Computer Skills
+1244,Masters of Engineering [Electrical & Electronic],4,Qualifiations
+1245,SmartPlant,7,Computer Skills
+1246,CONVAL,7,Computer Skills
+1247,InstruCalc Instrument Sizing Suite,7,Computer Skills
+1248,Shell Risk and Reliability management software (rrm),7,Computer Skills
+1249,Laboratory Virtual Instrumentation Engineering Workbench (LabView),7,Computer Skills
+1250,Simulation Program with Integrated Circuit Emphasis (SPICE),7,Computer Skills
+1251,Linux,7,Computer Skills
+1252,Pascal,7,Computer Skills
+1253,Java,7,Computer Skills
+1254,ARM,7,Computer Skills
+1255,Prolog,7,Computer Skills
+1256,.NET,7,Computer Skills
+1257,Adobe DreamWeaver,7,Computer Skills
+1258,Adobe Macromedia Flash,7,Computer Skills
+1259,Engineers Australia (MIEAust) [Member],4,Qualifiations
+1260,Institure of Electrical and Electronics Engineers (IEEE) [Member],4,Qualifiations
+1261,International Society of Automation (ISA) [Member],4,Qualifiations
+1262,Structural,2,Discipline
+1263,FEA Analysis,6,skills
+1264,Parametric Modeling Techniques,6,skills
+1265,Advanced Diploma of Civil Construction Design,4,Qualifiations
+1266,Advanced Diploma of Engineering / Diploma of Engineering (Technical) ,4,Qualifiations
+1267,Advanced Diploma of Engineering [Oil & Gas],4,Qualifiations
+1268,Diploma of Engineering [Oil & Gas],4,Qualifiations
+1269,Endorsed Certificate DOF Subsea Technical Series,4,Qualifiations
+1270,Petroleum Processing Operation Training,4,Qualifiations
+1271,Engineers Australia - Engineering Associate Graduate Membership ,4,Qualifiations
+1272,International Student of the Year Achievement Award ,4,Qualifiations
+1273,InterMap,7,Computer Skills
+1274,Civil 3D,7,Computer Skills
+1275,Civil Design,1,Industry
+1276,Dogman Ticket,4,Qualifiations
+1277,Working at Heights,4,Qualifiations
+1278,Elevated Work Platform ticket,4,Qualifiations
+1279,Tilt up Panel Awareness training.,4,Qualifiations
+1280,Confined Space Entry ticket,4,Qualifiations
+1281,Permit to Work officer training.,4,Qualifiations
+1282,“Above the Line” safety training,4,Qualifiations
+1283,Civil/Structural Engineer,2,Discipline
+1284,"Civil Structural Design, Model And Drafting Course part of Diploma of Civil Construction and Design qualification  (RII50515)",4,Qualifiations
+1285,Certificate IV in Building and Construction (Estimating) ,4,Qualifiations
+1286,"Bachelor Degree in Civil and Structural Engineering at “Gheorghe Asachi”- Technical University of Iasi, Romania",4,Qualifiations
+1287,Certificate in Project Management – Project Manager – E0063829,4,Qualifiations
+1288,Construction Safety Induction “White Card” number 712803CPCCOHS1001A47735/09.09.2013,4,Qualifiations
+1289,License to perform high risk work – WL 3382421/31.07.2015,4,Qualifiations
+1290,Microsoft MS Word,7,Computer Skills
+1291,Microsoft MS Powerpoint,7,Computer Skills
+1292,Robot Millennium Package ,7,Computer Skills
+1293,Nemetschek Allplan,7,Computer Skills
+1294,"Diploma of Engineering (Technical), South metropolitan TAFE",4,Qualifiations
+1295,Professional Engineer By Engineers Australia,4,Qualifiations
+1296,Bachelor of Science (Mechanical Engineering),4,Qualifiations
+1297,"Drawing Industrial Standards (ANSI, ASME, ISO)",1,Industry
+1298,Computer Aided Design (CAD),1,Industry
+1299,Computer Aided Manufacturing (CAM),1,Industry
+1300,"Microsoft MS Office Suite: Word, Excel, Power point, Outlook",7,Computer Skills
+1301,Microsoft MS Project,7,Computer Skills
+1302,Blender,7,Computer Skills
+1303,Ansys Fluent,7,Computer Skills
+1304,OpenFOAM,7,Computer Skills
+1305,Tecplot,7,Computer Skills
+1306,ParaView,7,Computer Skills
+1307,FORTRAN,7,Computer Skills
+1308,Python,7,Computer Skills
+1309,Computation Fluid Dynamics,1,Industry
+1310,Arduino,7,Computer Skills
+1311,Civil and Structural Engineer,2,Discipline
+1312,"Civil Eng., Bachelor (BSc.)",4,Qualifiations
+1313,Diploma of Civil Construction Design at South Metropolitan TAFE,4,Qualifiations
+1314,Engineers Australia (Membership No.: 40682013),4,Qualifiations
+1315,Cadam,7,Computer Skills
+1316,Caddsman 3D,7,Computer Skills
+1317,MEDUSA,7,Computer Skills
+1318,Catia3D,7,Computer Skills
+1319,Mechanical Desktop 3D,7,Computer Skills
+1320,Pro-Engineer Wildfire 3D,7,Computer Skills
+1321,PDS 3D,7,Computer Skills
+1322,Plantspace,7,Computer Skills
+1323,Mines Rescue,1,Industry
+1324,"Mechanical Engineering Certificates Pts I,II & III",4,Qualifiations
+1325,Full Technological Certificate in Production Engineering,4,Qualifiations
+1326,Value Analysis,4,Qualifiations
+1327,Optical Alignment,4,Qualifiations
+1328,MS Word & Excel,4,Qualifiations
+1329,Bahasa Indonesia,3,Language
+1330,Mandarin,3,Language
+1331,LISEC,7,Computer Skills
+1332,CADCAM,7,Computer Skills
+1333,QAD ERP,7,Computer Skills
+1334,Appsheet (Cloud),7,Computer Skills
+1335,SuperQ,7,Computer Skills
+1336,Warrior Logging,7,Computer Skills
+1337,Eclips Wireline Logging,7,Computer Skills
+1338,Bachelor of Chemical Engineering and Commerce (Finance),4,Qualifiations
+1339,Radioactive safety and security ,4,Qualifiations
+1340,Explosive Blasting and Handling,4,Qualifiations
+1341,Engineers Australia,4,Qualifiations
+1342,MBA [Oil & Gas],4,Qualifiations
+1343,MSc. Structural Engineering,4,Qualifiations
+1344,BS. Of Civil Engineering,4,Qualifiations
+1345,MIEAust-CPEng ,4,Qualifiations
+1346,AEO,4,Qualifiations
+1347,BOSIET,4,Qualifiations
+1348,RIW card,4,Qualifiations
+1349,International Structural Codes and Standards,6,skills
+1350,SAP2000,7,Computer Skills
+1351,Organisation,6,skills
+1352,QuickBooks,7,Computer Skills
+1353,MYOB Premier,7,Computer Skills
+1354,MYOB Payroll,7,Computer Skills
+1355,Afrikaans,3,Language
+1356,Bookkeeper Cert IV,4,Qualifiations
+1357,Cert 1V in Accounting,4,Qualifiations
+1358,PC Repairs & Maintenance,4,Qualifiations
+1359,Diploma in Public Relations,4,Qualifiations
+1360,Diploma in Modeling and Secretarial Practice,4,Qualifiations
+1361,CAD,7,Computer Skills
+1362,Pro E,7,Computer Skills
+1363,C Programming,7,Computer Skills
+1364,Presentation,6,skills
+1365,Subsea,1,Industry
+1366,Bachelors in Mechanical Engineering,4,Qualifiations
+1367,Masters in Subsea Engineering,4,Qualifiations
+1368,R Parametric Programming,7,Computer Skills
+1369,CNC Programming,6,skills
+1370,Product Data Management (PDM),6,skills
+1371,Product Life Cycle Management (PLM),6,skills
+1372,WRENCH (PDM),7,Computer Skills
+1373,Teamcenter (PLM),7,Computer Skills
+1374,Database,6,skills
+1375,EPLAN (Database),7,Computer Skills
+1376,Adobe Illustrator,7,Computer Skills
+1377,CorelDRAW,7,Computer Skills
+1378,Vector Graphics Editor,6,skills
+1379,Product Design and Development,1,Industry
+1380,R-Parametric programming ,4,Qualifiations
+1381,Executive Development Program ,4,Qualifiations
+1382,"Design and Selection of Seals, Cylinder and Bearings",4,Qualifiations
+1383,4 Absolutes of Quality Management,4,Qualifiations
+1384,PONC (Price of Non Conformities) Reducing methods ,4,Qualifiations
+1385,Design Failure Mode and Effect Analysis,4,Qualifiations
+1386,Introduction to CE marking ,4,Qualifiations
+1387,GOST-R certification ,4,Qualifiations
+1388,"API 570, API 571, ASME B31.3 ",4,Qualifiations
+1389,U stamping of pressure vessels ,4,Qualifiations
+1390,Subsea Products and Field Layout ,4,Qualifiations
+1391,Intervention and Connection Tools ,4,Qualifiations
+1392,Fire fighting and First Aid,4,Qualifiations
+1393,Arabic,3,Language
+1394,Multisim,7,Computer Skills
+1395,B.S. Mechanical/Mechatronics Engineer,4,Qualifiations
+1396,Non Destructive Test (LEVEL-II) ,4,Qualifiations
+1397,Communication Skills,4,Qualifiations
+1398,30-Hour OSHA Construction,4,Qualifiations
+1399,First Aid,4,Qualifiations
+1400,Master of Engineering Energy Technology,4,Qualifiations
+1401,Bachelor of Engineering (Honours) Mechanical,4,Qualifiations
+1402,Pumping Systems,1,Industry
+1403,Gravity Flow Systems,1,Industry
+1404,Packaged Equipment,1,Industry
+1405,Static Equipment,1,Industry
+1406,Fluid Mechanics,6,skills
+1407,GT Pro,7,Computer Skills
+1408,Dutch,3,Language
+1409,Public Speaking,6,skills
+1410,Civil Labourer,1,Industry
+1411,Pre-Scoping,6,skills
+1412,Diploma of Civil and Structural Engineering,4,Qualifiations
+1413,Diploma of Engineering (Technical - Mechanical),4,Qualifiations
+1414,Procurement Management,6,skills
+1415,Drawing Implementation,6,skills
+1416,Conflict Management,6,skills
+1417,Bachelors of Civil Engineering ,4,Qualifiations
+1418,"Australian Institute of Project Management, (A.I.P.M)",4,Qualifiations
+1419,Project Management Institute. (P.M.I).,4,Qualifiations
+1420,3D Studio Max,7,Computer Skills
+1421,Adobe Photoshop,7,Computer Skills
+1422,ArchiCAD,7,Computer Skills
+1423,Google Sketchup,7,Computer Skills
+1424,Bachelor of Architecture,4,Qualifiations
+1425,"Professional Member of Institute of Architects, Bangladesh",4,Qualifiations
+1426,Professional Member of Rajdhani Unnayan Kartripaksha,4,Qualifiations
+1427,Professional Member of Chittagong Development Authority,4,Qualifiations
+1428,Computer Aided Project Planning and Management,4,Qualifiations
+1429,Health & Environmental Safety (HES) Management in Construction,4,Qualifiations
+1430,Wolfram Mathematica,7,Computer Skills
+1431,"Bachelors in Mechanical Engineering, Oil and Gas Major",4,Qualifiations
+1432,BSc (Hons) in Mechanical Engineering,4,Qualifiations
+1433,"Engineers Australia, CPEng, Chartered Professional Engineer",4,Qualifiations
+1434,Hazards Assessment,1,Industry
+1435,Performance Improvement,6,skills
+1436,Rotating Equipment,6,skills
+1437,Mechanical Power Transmission System,6,skills
+1438,Structural Component,6,skills
+1439,Hydrodynamic Power Transmission System,1,Industry
+1440,Hydrostatic Control Circuit,1,Industry
+1441,Hydrostatic Transport System,1,Industry
+1442,programming,6,skills
+1443,Equipment Selection,6,skills
+1444,Masters by Research (M.Sc.) In Civil and Structural Engineering,4,Qualifiations
+1445,Bachelor of Science (B.Sc.) in Civil Engineering (major: Geotech; Minor: Structure),4,Qualifiations
+1446,ETABS,7,Computer Skills
+1447,Concrete Lab Test,6,skills
+1448,SPSS,7,Computer Skills
+1449,XRD (Petrographic Test),6,skills
+1450,XRF  (Petrographic Test),6,skills
+1451,SEM (Petrographic Test),6,skills
+1452,EDS (Petrographic Test),6,skills
+1453,Soil Lab Test,6,skills
+1454,Non-destructive Electrical Resistivity tests,6,skills
+1455,Invoicing,6,skills
+1456,Liasing,6,skills
+1457,Research Proposal,6,skills
+1458,Intergraph SmartPlant,NULL,NULL
+1459,Conveyor,6,skills
+1460,Short Courses in Excel and Access,4,Qualifiations
+1461,MIG Welding Competency Test,4,Qualifiations
+1462,Certificate of PC Service and Repair,4,Qualifiations
+1463,Associate Diploma in Mechanical Engineering ,4,Qualifiations
+1464,SAFE,7,Computer Skills
+1465,Robot Structures,7,Computer Skills
+1466,Msc Structural Engineering,4,Qualifiations
+1467,Bachelor of Science [Civil Engineering],4,Qualifiations
+1468,Heavy Industry,1,Industry
+1469,EPCM,8,workSegment
+1470,Finite Element Analysis [FEA],6,skills
+1471,CPEng,4,Qualifiations
+1472,PREQ,4,Qualifiations
+1473,Mineral Separation,1,Industry
+1474,fluid flow 3,7,Computer Skills
+1475,Welding Technology,6,skills
+1476,5 Whys Method,6,skills
+1477,Bachelor of Technology [Mechanical & Manufacturing Engineering],4,Qualifiations
+1478,QA/QC,2,Discipline
+1479,Inspector Level II - 3.2 Eqiv. Welding and Fabrication - SAIW,4,Qualifiations
+1480,IIW International Welding Inspector 3.2+ Comprehensive Level,4,Qualifiations
+1481,Mines and Works Plant Inspector Certificate of Competency,4,Qualifiations
+1482,ASME - Inspectors Advanced Code Interpreter ,4,Qualifiations
+1483,ASME - Inspectors Advanced ASME IX ,4,Qualifiations
+1484,Quality Assurance - Quality Education Systems (QES) Level II,4,Qualifiations
+1485,"Auditing – SAI Global, Management Systems Auditing",4,Qualifiations
+1486,"NDT - SAQCC Evaluator Level II RT, UT, PT, MT",4,Qualifiations
+1487,Advanced Plastics Welding Technology - SKZ.,4,Qualifiations
+1488,Welding - City and Guilds of London Pt III,4,Qualifiations
+1489,submarine,2,Discipline
+1490,Fuel and Lubricant storage facilities,2,Discipline
+1491,SFDesign,6,skills
+1492,PFD,6,skills
+1493,RTIO Specifications,6,skills
+1494,Enovia,7,Computer Skills
+1495,Design Drafting,2,Discipline
+1496,Diploma in Mechanical Engineering & CAD,4,Qualifiations
+1497,Proposal Engineering,8,workSegment
+1498,Side-winder,7,Computer Skills
+1499,Belt-stat,7,Computer Skills
+1500,Helix,7,Computer Skills
+1501,Belt-comp,7,Computer Skills
+1502,Lotus-notes,7,Computer Skills
+1503,Adobe Acrobat,7,Computer Skills
+1504,CPEng [Civil & Structural],4,Qualifiations
+1505,FIEAust,4,Qualifiations
+1506,PhD [Structures],4,Qualifiations
+1507,MBA [Marketing],4,Qualifiations
+1508,MS [Structures],4,Qualifiations
+1509,Engineering Executive,4,Qualifiations
+1510,National Professional Engineer Queensland [Civil & Structural][RPEQ],4,Qualifiations
+1511,Australian APEC Engineer Register,4,Qualifiations
+1512,International Professional Engineer,4,Qualifiations
+1513,Member of the Institution of Engineers Malaysia (MIEM),4,Qualifiations
+1514,Fellow of the Institution of Engineers (India) (FIE(I)),4,Qualifiations
+1515,Chartered Engineer [CEng],4,Qualifiations
+1516,Civil Infrastructure,1,Industry
+1517,Detailed Design Engineering,8,workSegment
+1518,Site supervision,6,skills
+1519,Material Specification,6,skills
+1520,Valve Specification,6,skills
+1521,Production Management,6,skills
+1522,Processing plant design,6,skills
+1523,process cost reduction,6,skills
+1524,plant distribution layout,6,skills
+1525,piping work design,6,skills
+1526,Certificate in Oil & Gas Transmission,4,Qualifiations
+1527,Post-Graduate Diplina in Oil & gas engineering,4,Qualifiations
+1528,Bachelor of Industrial Engineering,4,Qualifiations
+1529,Institution of Engineers of Australia,4,Qualifiations
+1530,Resources,1,Industry
+1531,Professional Engineer - Engineers Australia,4,Qualifiations
+1532,Masters in Business Leadership [MBA],4,Qualifiations
+1533,Functional Safety Engineer (TUV Rhineland Certified),4,Qualifiations
+1534,MACE CP3 Technologist,4,Qualifiations
+1535,Project Independent Verification and Validation,6,skills
+1536,risk based Asset Optimization solutions,6,skills
+1537,Risk based inspection,6,skills
+1538,Root Cause Failure Analysis,6,skills
+1539,Incident Investigation,6,skills
+1540,Process Hazard Identification,6,skills
+1541,Functional Safety Reviews & Audits,6,skills
+1542,Pipeline Integrity Management Plan development & reviews,6,skills
+1543,Corrosion Management,6,skills
+1544,Development of safe maintenance standards,6,skills
+1545,cost control,6,skills
+1546,networking,6,skills
+1547,Review of Emergency response plans,6,skills
+1548,Defensive Driving,4,Qualifiations
+1549,ISO Quality Management Systems,4,Qualifiations
+1550,Construction Industry-White card,4,Qualifiations
+1551,Maritime Security Identification Card,4,Qualifiations
+1552,BOSIET Offshore survival certification,4,Qualifiations
+1553,Drilling Essentials for Non-Drilling Professionals,4,Qualifiations
+1554,Operating Subsea Oil & Gas Production systems,4,Qualifiations
+1555,Achieving Reliable Subsea Systems,4,Qualifiations
+1556,Relationship Based Sales,4,Qualifiations
+1557,TUV Functional Safety Engineer,4,Qualifiations
+1558,HAZOP Leaders/ Facilitator,4,Qualifiations
+1559,risk assessments,6,skills
+1560,Maintenance Engineering,2,Discipline
+1561,Bachelor of Arts [Economics and Philosophy],4,Qualifiations
+1562,hydraulic analysis,6,skills
+1563,fault diagnosis,6,skills
+1564,Masters [Mechanical Engineering],4,Qualifiations
+1565,BEnggTech [Mechanical Engineering],4,Qualifiations
+1566,BSc,4,Qualifiations
+1567,Diploma of Engineering [Mechanical],4,Qualifiations
+1568,Engineers Australia [Member],4,Qualifiations
+1569,Creo,7,Computer Skills
+1570,document management,6,skills
+1571,Pipe Arrangement,6,skills
+1572,Fire Water Systems,2,Discipline
+1573,Fire Safety,1,Industry
+1574,Material Handling,2,Discipline
+1575,Material Processing,NULL,NULL
+1576,Industrial Structures,NULL,NULL
+1577,Bulk Material Handling,2,Discipline
